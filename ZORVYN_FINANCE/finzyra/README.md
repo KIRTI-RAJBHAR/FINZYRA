@@ -51,19 +51,7 @@ finzyra/
     ├── auth.js         ← Sign in / Sign up / Forgot password / Google picker
     └── app.js          ← Navigation, charts, render functions, modals
 
-🚀 How to Run Locally
-Option 1 — VS Code Live Server (Recommended)
 
-Download and extract the finzyra folder
-Open the folder in VS Code
-Install the Live Server extension by Ritwick Dey
-Right-click index.html → click Open with Live Server
-App opens at http://127.0.0.1:5500
-
-Option 2 — Direct Browser
-
-Simply double-click index.html
-It opens directly in your browser — no setup needed
 
 
 📱 Pages & Features
